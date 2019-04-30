@@ -1,2 +1,2 @@
 # ToDo
-JavaScriptでToDoアプリ　（全盛期）
+ピュアJavaScriptで一発ギャグを取得する、SPA
